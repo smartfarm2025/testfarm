@@ -1,0 +1,1 @@
+https://packages.hiveeyes.org/hiveeyes/foss/debian/pool/foundation/i/influxdb/
